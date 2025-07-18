@@ -1,6 +1,6 @@
 # Hi, I'm ( मन ) Prajapati! 👋
 
-I am a passionate B.Sc. CS student, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+I am a passionate MCA student, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
 [manprajapatie](https://github.com/manprajapatie)
 
